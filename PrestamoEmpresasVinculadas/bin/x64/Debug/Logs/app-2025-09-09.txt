@@ -1,0 +1,4 @@
+2025-09-09 16:16:33,274 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-09-09 16:19:02,002 INFO  PrestamoEmpresasVinculadas.Menu - Entering application.
+2025-09-09 16:31:47,061 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-09-09 16:44:13,227 INFO  PrestamoEmpresasVinculadas.Menu - Entering application.

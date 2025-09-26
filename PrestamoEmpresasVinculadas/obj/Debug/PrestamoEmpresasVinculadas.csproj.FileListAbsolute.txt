@@ -1,0 +1,16 @@
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\bin\Debug\PrestamoEmpresasVinculadas.exe.config
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\bin\Debug\PrestamoEmpresasVinculadas.exe
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\bin\Debug\PrestamoEmpresasVinculadas.pdb
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.csproj.AssemblyReference.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.GenerarPrestamo.resources
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.Login.resources
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.Properties.Resources.resources
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.csproj.GenerateResource.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.csproj.CoreCompileInputs.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.exe
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.pdb
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.Menu.resources
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.csproj.ResolveComReference.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\PrestamoEmpresasVinculadas\obj\Debug\PrestamoEmpresasVinculadas.exe.config

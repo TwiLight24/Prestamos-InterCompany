@@ -1,0 +1,13 @@
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\bin\x64\Debug\Negocio.dll.config
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\bin\x64\Debug\Negocio.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\bin\x64\Debug\Negocio.pdb
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\bin\x64\Debug\Datos.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\bin\x64\Debug\Datos.pdb
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\bin\x64\Debug\Datos.dll.config
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\obj\x64\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\obj\x64\Debug\Negocio.Properties.Resources.resources
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\obj\x64\Debug\Negocio.csproj.GenerateResource.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\obj\x64\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\obj\x64\Debug\Negocio.csproj.Up2Date
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\obj\x64\Debug\Negocio.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Negocio\obj\x64\Debug\Negocio.pdb

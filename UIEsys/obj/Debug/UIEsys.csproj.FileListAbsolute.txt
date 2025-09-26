@@ -1,0 +1,8 @@
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\UIEsys\bin\Debug\UIEsys.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\UIEsys\bin\Debug\UIEsys.pdb
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\UIEsys\obj\Debug\UIEsys.csproj.AssemblyReference.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\UIEsys\obj\Debug\UIEsys.Properties.Resources.resources
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\UIEsys\obj\Debug\UIEsys.csproj.GenerateResource.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\UIEsys\obj\Debug\UIEsys.csproj.CoreCompileInputs.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\UIEsys\obj\Debug\UIEsys.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\UIEsys\obj\Debug\UIEsys.pdb

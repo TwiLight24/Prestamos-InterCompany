@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{532F25DF-6807-43E8-BD17-DDEA53A1DCA2}|PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas.csproj|c:\\users\\asist_sap\\downloads\\prestamoempresasvinculadas\\prestamoempresasvinculadas\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532F25DF-6807-43E8-BD17-DDEA53A1DCA2}|PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas.csproj|solutionrelative:prestamoempresasvinculadas\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA4601-EA9F-40DF-8C93-1600BA696B7A}|Util\\Util.csproj|c:\\users\\asist_sap\\downloads\\prestamoempresasvinculadas\\util\\cssap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DA4601-EA9F-40DF-8C93-1600BA696B7A}|Util\\Util.csproj|solutionrelative:util\\cssap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DA4601-EA9F-40DF-8C93-1600BA696B7A}|Util\\Util.csproj|C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\util\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DA4601-EA9F-40DF-8C93-1600BA696B7A}|Util\\Util.csproj|solutionrelative:util\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B425AD5-E9B5-438C-A6AB-0854CC33BC13}|Entidad\\Entidad.csproj|C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\entidad\\ovpm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B425AD5-E9B5-438C-A6AB-0854CC33BC13}|Entidad\\Entidad.csproj|solutionrelative:entidad\\ovpm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532F25DF-6807-43E8-BD17-DDEA53A1DCA2}|PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas.csproj|C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\prestamoempresasvinculadas\\generarprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532F25DF-6807-43E8-BD17-DDEA53A1DCA2}|PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas.csproj|solutionrelative:prestamoempresasvinculadas\\generarprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532F25DF-6807-43E8-BD17-DDEA53A1DCA2}|PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas.csproj|C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\prestamoempresasvinculadas\\generardevolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532F25DF-6807-43E8-BD17-DDEA53A1DCA2}|PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas.csproj|solutionrelative:prestamoempresasvinculadas\\generardevolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532F25DF-6807-43E8-BD17-DDEA53A1DCA2}|PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas.csproj|C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\prestamoempresasvinculadas\\generarreconciliacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532F25DF-6807-43E8-BD17-DDEA53A1DCA2}|PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas.csproj|solutionrelative:prestamoempresasvinculadas\\generarreconciliacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532F25DF-6807-43E8-BD17-DDEA53A1DCA2}|PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas.csproj|C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\prestamoempresasvinculadas\\generarreconciliacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{532F25DF-6807-43E8-BD17-DDEA53A1DCA2}|PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas.csproj|solutionrelative:prestamoempresasvinculadas\\generarreconciliacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC882ECF-1B5B-40C1-990F-0BF1C6F7E4AD}|UIEsys\\UIEsys.csproj|C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\uiesys\\uisap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC882ECF-1B5B-40C1-990F-0BF1C6F7E4AD}|UIEsys\\UIEsys.csproj|solutionrelative:uiesys\\uisap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas\\Login.cs",
+              "RelativeDocumentMoniker": "PrestamoEmpresasVinculadas\\Login.cs",
+              "ToolTip": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas\\Login.cs",
+              "RelativeToolTip": "PrestamoEmpresasVinculadas\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:19:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\Util\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Util\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\Util\\Utilidades.cs",
+              "RelativeToolTip": "Util\\Utilidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T22:32:26.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OVPM.cs",
+              "DocumentMoniker": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\Entidad\\OVPM.cs",
+              "RelativeDocumentMoniker": "Entidad\\OVPM.cs",
+              "ToolTip": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\Entidad\\OVPM.cs",
+              "RelativeToolTip": "Entidad\\OVPM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T22:29:05.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerarDevolucion.cs",
+              "DocumentMoniker": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas\\GenerarDevolucion.cs",
+              "RelativeDocumentMoniker": "PrestamoEmpresasVinculadas\\GenerarDevolucion.cs",
+              "ToolTip": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas\\GenerarDevolucion.cs",
+              "RelativeToolTip": "PrestamoEmpresasVinculadas\\GenerarDevolucion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T23:42:25.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenerarReconciliacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas\\GenerarReconciliacion.cs",
+              "RelativeDocumentMoniker": "PrestamoEmpresasVinculadas\\GenerarReconciliacion.cs",
+              "ToolTip": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas\\GenerarReconciliacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PrestamoEmpresasVinculadas\\GenerarReconciliacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T23:35:04.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenerarReconciliacion.cs",
+              "DocumentMoniker": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas\\GenerarReconciliacion.cs",
+              "RelativeDocumentMoniker": "PrestamoEmpresasVinculadas\\GenerarReconciliacion.cs",
+              "ToolTip": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas\\GenerarReconciliacion.cs",
+              "RelativeToolTip": "PrestamoEmpresasVinculadas\\GenerarReconciliacion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwKsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T17:37:01.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerarPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas\\GenerarPrestamo.cs",
+              "RelativeDocumentMoniker": "PrestamoEmpresasVinculadas\\GenerarPrestamo.cs",
+              "ToolTip": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\PrestamoEmpresasVinculadas\\GenerarPrestamo.cs",
+              "RelativeToolTip": "PrestamoEmpresasVinculadas\\GenerarPrestamo.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAiwPsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T17:27:55.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "csSAP.cs",
+              "DocumentMoniker": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\Util\\csSAP.cs",
+              "RelativeDocumentMoniker": "Util\\csSAP.cs",
+              "ToolTip": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\Util\\csSAP.cs",
+              "RelativeToolTip": "Util\\csSAP.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:03:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UISAP.cs",
+              "DocumentMoniker": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\UIEsys\\UISAP.cs",
+              "RelativeDocumentMoniker": "UIEsys\\UISAP.cs",
+              "ToolTip": "C:\\Users\\ASIST_SAP\\Downloads\\PrestamoEmpresasVinculadas\\UIEsys\\UISAP.cs",
+              "RelativeToolTip": "UIEsys\\UISAP.cs",
+              "ViewState": "AgIAAOQCAAAAAAAAAAAjwOwCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:41:37.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

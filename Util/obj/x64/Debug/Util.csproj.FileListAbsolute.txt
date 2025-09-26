@@ -1,0 +1,16 @@
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\bin\x64\Debug\Util.dll.config
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\bin\x64\Debug\Util.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\bin\x64\Debug\Util.pdb
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\bin\x64\Debug\Entidad.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\bin\x64\Debug\Entidad.pdb
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\bin\x64\Debug\Entidad.dll.config
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\obj\x64\Debug\Util.csproj.AssemblyReference.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\obj\x64\Debug\Util.csproj.ResolveComReference.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\obj\x64\Debug\Util.Properties.Resources.resources
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\obj\x64\Debug\Util.csproj.GenerateResource.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\obj\x64\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\obj\x64\Debug\Util.csproj.Up2Date
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\obj\x64\Debug\Util.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Util\obj\x64\Debug\Util.pdb

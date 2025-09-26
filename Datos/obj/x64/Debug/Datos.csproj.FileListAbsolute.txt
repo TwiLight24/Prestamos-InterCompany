@@ -1,0 +1,9 @@
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Datos\bin\x64\Debug\Datos.dll.config
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Datos\bin\x64\Debug\Datos.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Datos\bin\x64\Debug\Datos.pdb
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Datos\obj\x64\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Datos\obj\x64\Debug\Datos.Properties.Resources.resources
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Datos\obj\x64\Debug\Datos.csproj.GenerateResource.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Datos\obj\x64\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Datos\obj\x64\Debug\Datos.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Datos\obj\x64\Debug\Datos.pdb

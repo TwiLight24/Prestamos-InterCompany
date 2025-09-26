@@ -1,0 +1,72 @@
+﻿CREATE OR ALTER PROCEDURE SP_REPORTE_PRESTAMOS_VINCULADAS_v2 @EMPRESA_DEUDORA NVARCHAR(120)
+AS
+BEGIN
+
+	DECLARE @REPORTE NVARCHAR(MAX) =
+
+	'DECLARE @PRESTAMO_ORIGEN AS TABLE(DocEntry INT,DocNum INT,DocDate DATE,Comentario NVARCHAR(MAX),Moneda NVARCHAR(100),MontoSoles DECIMAL(18,2),MontoDolares DECIMAL(18,2),PagoRelacion INT)
+	DECLARE @PRESTAMO_DESTINO AS TABLE(DocEntry INT,DocNum INT,Moneda NVARCHAR(100),MontoSoles DECIMAL(18,2),MontoDolares DECIMAL(18,2),PagoRelacion INT)
+	DECLARE @DEVOLUCION_ORIGEN AS TABLE(DocEntry INT,DocNum INT,FechaPago DATE,Moneda NVARCHAR(100),MontoSoles DECIMAL(18,2),MontoDolares DECIMAL(18,2),PagoRelacion INT)
+	DECLARE @DEVOLUCION_DESTINO AS TABLE(DocEntry INT,DocNum INT,FechaPago DATE,Moneda NVARCHAR(100),MontoSoles DECIMAL(18,2),MontoDolares DECIMAL(18,2),PagoRelacion INT,PagoRelacionDev INT)
+	DECLARE @DEVOLUCION AS TABLE(DocEntry_ORIGEN INT,DocNum_ORIGEN INT,DocEntry_DESTINO INT,DocNum_DESTINO INT,FechaPago DATE,Moneda NVARCHAR(100),MontoSoles DECIMAL(18,2),MontoDolares DECIMAL(18,2),PagoRelacion INT)
+
+	INSERT INTO @PRESTAMO_ORIGEN
+	SELECT T0.DocEntry,T0.DocNum,T0.DocDate,t0.Comments,T0.DocCurr,IIF(T0.DoccuRr = ''SOL'', T1.SumApplied, 0.00),IIF(T0.DoccuRr = ''USD'', T1.AppliedFC, 0.00),T1.U_GMI_PAGORELACION
+	FROM OVPM T0 LEFT JOIN VPM4 T1 ON T0.DocEntry = T1.DocNum
+	WHERE CAST(DOCDATE AS DATE) >= ''2025-08-18''
+		AND T0.DocType = ''A'' AND T0.CANCELED = ''N''
+	ORDER BY DOCDATE DESC
+
+	INSERT INTO @DEVOLUCION_DESTINO
+	SELECT T0.DocEntry,T0.DocNum,T0.CreateDate,T0.DocCurr,IIF(T0.DoccuRr = ''SOL'', T1.SumApplied, 0.00),IIF(T0.DoccuRr = ''USD'', T1.AppliedFC, 0.00),T1.U_GMI_PAGORELACION,T1.U_GMI_PAGORELACION_DEV
+	FROM ORCT T0 LEFT JOIN RCT4 T1 ON T0.DOCENTRY = T1.DOCNUM
+	WHERE CAST(DOCDATE AS DATE) >= ''2025-08-18''
+		AND T0.DocType = ''A'' AND T0.CANCELED = ''N''
+	ORDER BY DOCDATE DESC
+
+	INSERT INTO @DEVOLUCION_ORIGEN
+	SELECT T0.DocEntry,T0.DocNum,T0.CreateDate,T0.DocCurr,IIF(T0.DoccuRr = ''SOL'', T1.SumApplied, 0.00),IIF(T0.DoccuRr = ''USD'', T1.AppliedFC, 0.00),T1.U_GMI_PAGORELACION 
+	FROM ' + @EMPRESA_DEUDORA + '.DBO.OVPM T0 LEFT JOIN ' + @EMPRESA_DEUDORA + '.DBO.VPM4 T1 ON T0.DocEntry = T1.DocNum
+	WHERE CAST(DOCDATE AS DATE)>=''2025-08-18''
+		AND T0.DocType = ''A'' AND T0.CANCELED = ''N''
+	ORDER BY DOCDATE DESC
+
+	INSERT INTO @PRESTAMO_DESTINO
+	SELECT T0.DocEntry,T0.DocNum,T0.DocCurr,T1.GrossAmnt,T1.GrssAmntFC,T1.U_GMI_PAGORELACION 
+	FROM ' + @EMPRESA_DEUDORA + '.DBO.ORCT T0 LEFT JOIN ' + @EMPRESA_DEUDORA + '.DBO.RCT4 T1 ON T0.DOCENTRY = T1.DOCNUM
+	WHERE CAST(DOCDATE AS DATE)>=''2025-08-18''
+		AND T0.DocType = ''A'' AND T0.CANCELED = ''N''
+	ORDER BY DOCDATE DESC
+
+	INSERT INTO @DEVOLUCION
+	SELECT T1.DocEntry,T1.DocNum,T2.DocEntry,T2.DocNum,T1.FechaPago,T1.Moneda,T1.MontoSoles,T1.MontoDolares,T1.PagoRelacion
+	FROM @DEVOLUCION_ORIGEN T1 LEFT JOIN @DEVOLUCION_DESTINO T2 ON T1.PagoRelacion=T2.PagoRelacion AND T1.MontoDolares=T2.MontoDolares AND T1.DOCNUM=T2.PagoRelacionDev
+	WHERE T1.Moneda = ''USD''
+
+	INSERT INTO @DEVOLUCION
+	SELECT T1.DocEntry,T1.DocNum,T2.DocEntry,T2.DocNum,T1.FechaPago,T1.Moneda,T1.MontoSoles,T1.MontoDolares,T1.PagoRelacion
+	FROM @DEVOLUCION_ORIGEN T1 LEFT JOIN @DEVOLUCION_DESTINO T2 ON T1.PagoRelacion=T2.PagoRelacion AND T1.MontoSoles=T2.MontoSoles AND T1.DOCNUM=T2.PagoRelacionDev
+	WHERE T1.Moneda = ''SOL''
+
+	SELECT T0.DocDate [Fecha Operacion],
+    T0.DocNum [PP RUMI],
+    T0.DocEntry [PP RUMI DocEntry],
+    T2.DocNum_DESTINO [PR RUMI],
+    T2.DocEntry_DESTINO [PR RUMI DocEntry],
+    T0.MontoSoles [Monto Original S/],
+    T0.MontoDolares [Monto Original USD],
+    ISNULL(T0.Comentario, '' - '') [Concepto],
+    T2.FechaPago [Fecha Amortizacion],
+    T0.Moneda AS [Moneda Amortizacion],
+    ISNULL(T2.MontoSoles, 0.00) [Amortizacion Capital],
+    ISNULL(T2.MontoDolares, 0.00) [Amortizacion Capital Dolarizado],
+    T1.DocNum [PR MEGA],
+    T1.DocEntry [PR MEGA DocEntry],
+    T2.DocNum_ORIGEN [PP MEGA],
+    T2.DocEntry_ORIGEN [PP MEGA DocEntry]
+	FROM @PRESTAMO_ORIGEN T0
+	LEFT JOIN @PRESTAMO_DESTINO T1  ON T0.DocNum = T1.PagoRelacion
+	LEFT JOIN @DEVOLUCION T2  ON T0.DocNum = T2.PagoRelacion'
+
+	EXECUTE(@REPORTE)
+END

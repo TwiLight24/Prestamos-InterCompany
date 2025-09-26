@@ -1,0 +1,28 @@
+2025-08-20 15:10:53,673 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 15:11:38,771 INFO  PrestamoEmpresasVinculadas.Menu - Entering application.
+2025-08-20 15:20:41,599 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 15:31:12,321 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 15:54:39,239 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:09:58,595 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:15:01,916 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:16:59,327 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:17:50,795 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:21:30,476 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:21:43,507 INFO  PrestamoEmpresasVinculadas.Menu - Entering application.
+2025-08-20 16:25:04,114 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:25:58,874 INFO  PrestamoEmpresasVinculadas.Menu - Entering application.
+2025-08-20 16:28:12,850 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:28:53,816 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:36:35,827 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:37:39,051 INFO  PrestamoEmpresasVinculadas.Menu - Entering application.
+2025-08-20 16:40:19,665 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:51:11,061 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:58:29,131 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 16:59:57,518 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 17:03:16,157 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 17:07:36,421 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 17:10:43,580 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 17:11:17,830 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 17:12:23,450 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 17:13:15,711 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).
+2025-08-20 17:15:41,476 INFO  PrestamoEmpresasVinculadas.Program - Aplicación iniciada (smoke test).

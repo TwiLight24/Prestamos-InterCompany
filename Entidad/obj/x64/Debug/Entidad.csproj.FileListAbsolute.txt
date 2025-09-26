@@ -1,0 +1,9 @@
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Entidad\bin\x64\Debug\Entidad.dll.config
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Entidad\bin\x64\Debug\Entidad.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Entidad\bin\x64\Debug\Entidad.pdb
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Entidad\obj\x64\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Entidad\obj\x64\Debug\Entidad.Properties.Resources.resources
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Entidad\obj\x64\Debug\Entidad.csproj.GenerateResource.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Entidad\obj\x64\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Entidad\obj\x64\Debug\Entidad.dll
+C:\Users\ASIST_SAP\Downloads\PrestamoEmpresasVinculadas\Entidad\obj\x64\Debug\Entidad.pdb
